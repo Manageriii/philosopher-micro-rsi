@@ -6,7 +6,7 @@
 [![Parameters: 1.52M](https://img.shields.io/badge/Parameters-1.52M%20(5.8%20MB)-orange.svg)](#checkpoint--scoreboard)
 [![Status: Research Prototype](https://img.shields.io/badge/Status-Micro--Scale%20Research%20Prototype-blue.svg)](#limitations--honest-scope)
 
-> **Honest Scope:** This is **not** a general-purpose chat LLM. It is a **1.52M-parameter (`5.8 MB`) micro-scale architecture & self-play sandbox** built to test whether a tiny weight-shared Wreath + Block-Diffusion model can discover verified multi-step solutions from scratch via deterministic sandbox feedback on a single laptop. See [wreath-deltanet](https://github.com/Manageriii/wreath-deltanet) for the formal proofs and `682×` extrapolation benchmarks.
+> **Honest Scope:** This is **not** a general-purpose chat LLM. It is a **1.52M-parameter (`5.8 MB`) micro-scale architecture & self-play sandbox** built to test whether a tiny weight-shared Wreath + Block-Diffusion model can discover verified multi-step solutions from scratch via deterministic sandbox feedback on a single laptop. See [wreath-deltanet](https://github.com/Manageriii/wreath-deltanet) for the formal proofs and `682×` extrapolation benchmarks. But for people that have enough computing power I would say this model is a great starting point for training a really strong model because of it's innovative and efficient architecture.
 
 ---
 
